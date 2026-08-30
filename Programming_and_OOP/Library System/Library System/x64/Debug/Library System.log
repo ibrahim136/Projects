@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Ibrahim Haggag\source\repos\Library System\Library System\main.cpp(22,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ibrahim Haggag\source\repos\Library System\Library System\main.cpp(23,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Library System.vcxproj -> C:\Users\Ibrahim Haggag\source\repos\Library System\x64\Debug\Library System.exe

@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Ibrahim Haggag\source\repos\Online Book Reader\Online Book Reader\main.cpp(137,49): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\Ibrahim Haggag\source\repos\Online Book Reader\Online Book Reader\main.cpp(147,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ibrahim Haggag\source\repos\Online Book Reader\Online Book Reader\main.cpp(209,49): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\Ibrahim Haggag\source\repos\Online Book Reader\Online Book Reader\main.cpp(838,1): warning C4715: 'reading_books::searching_for_history': not all control paths return a value
+  Online Book Reader.vcxproj -> C:\Users\Ibrahim Haggag\source\repos\Online Book Reader\x64\Debug\Online Book Reader.exe
