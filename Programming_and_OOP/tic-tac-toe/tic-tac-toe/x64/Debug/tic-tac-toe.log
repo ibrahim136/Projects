@@ -1,4 +1,0 @@
-﻿  tic-tac-toe.cpp
-C:\Users\Ibrahim Haggag\source\repos\tic-tac-toe\tic-tac-toe\tic-tac-toe.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\Ibrahim Haggag\source\repos\tic-tac-toe\tic-tac-toe\tic-tac-toe.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  tic-tac-toe.vcxproj -> C:\Users\Ibrahim Haggag\source\repos\tic-tac-toe\x64\Debug\tic-tac-toe.exe
