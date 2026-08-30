@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Ibrahim Haggag\source\repos\Employee Program\Employee Program\main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ibrahim Haggag\source\repos\Employee Program\Employee Program\main.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Employee Program.vcxproj -> C:\Users\Ibrahim Haggag\source\repos\Employee Program\x64\Debug\Employee Program.exe
