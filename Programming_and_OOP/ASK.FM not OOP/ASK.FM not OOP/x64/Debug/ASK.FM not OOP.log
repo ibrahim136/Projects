@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Ibrahim Haggag\source\repos\ASK.FM not OOP\ASK.FM not OOP\main.cpp(154,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ASK.FM not OOP.vcxproj -> C:\Users\Ibrahim Haggag\source\repos\ASK.FM not OOP\x64\Debug\ASK.FM not OOP.exe

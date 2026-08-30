@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Ibrahim Haggag\source\repos\ASK.FM OOP\ASK.FM OOP\main.cpp(187,9): warning C4150: deletion of pointer to incomplete type 'questions_manager'; no destructor called
+      C:\Users\Ibrahim Haggag\source\repos\ASK.FM OOP\ASK.FM OOP\main.cpp(177,7):
+      see declaration of 'questions_manager'
+  
+C:\Users\Ibrahim Haggag\source\repos\ASK.FM OOP\ASK.FM OOP\main.cpp(1367,1): warning C4715: 'system_ask_fm::login_or_sign_up': not all control paths return a value
+C:\Users\Ibrahim Haggag\source\repos\ASK.FM OOP\ASK.FM OOP\main.cpp(1217,1): warning C4715: 'create_new_question::question': not all control paths return a value
+  ASK.FM OOP.vcxproj -> C:\Users\Ibrahim Haggag\source\repos\ASK.FM OOP\x64\Debug\ASK.FM OOP.exe
